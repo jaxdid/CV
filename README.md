@@ -10,11 +10,12 @@ Wandering problem-solver, critical-thinker and perpetual student. I've spent the
 * An enthusiastic autodidact, I can pick up unfamiliar languages and frameworks quickly and confidently.
   * Beyond the Makers Academy curriculum and with no prior mobile development experience, I learned Swift and the Xcode IDE sufficiently well to prototype a native iOS application in three days.
 
+##### Samples
 | Project | Team Size | Description | Technologies |
 |---------|:---------:|-------------|--------------|
-|[Moments](https://github.com/BjoernWagner/moments) | 5 | Makers Academy final project. A social mobile app that allows people to share and view experiences on a map, updated in real-time. | Swift, Xcode, Firebase, Facebook SDK (iOS), XCTest, Quick |
-|[Github Creep](https://github.com/BjoernWagner/github-creep) | 4 | A single-page application for searching GitHub user profiles via JSON requests. | AngularJS, Github API, Protractor, Karma |
-|[MakersBnB](https://github.com/RPiper93/makers_bnb) | 5 | An AirBnB clone that allows users to list, update and book properties, as well as intelligently confirm, deny and prevent bookings based on a property's availability. | JavaScript, jQuery, Ruby, Sinatra, PostgreSQL, Cloudinary API, RSpec, Capybara, Rake |
+|[Moments](https://github.com/BjoernWagner/moments) | 5 | Makers Academy final project. A social mobile app that allows people to share and view experiences on a map, updated in real-time. | Swift, Xcode, Facebook SDK (iOS), Firebase, AWS S3, XCTest, Quick |
+|[GithubCreep](https://github.com/BjoernWagner/github-creep) | 4 | A single-page application for searching GitHub user profiles via JSON requests. | AngularJS, Github API, Protractor, Karma |
+|[MakersBnB](https://github.com/RPiper93/makers_bnb) [(Heroku)](http://makers-bnb.herokuapp.com) | 5 | An AirBnB clone that allows users to list, update and book properties, as well as intelligently confirm, deny and prevent bookings based on a property's availability. | JavaScript, jQuery, Ruby, Sinatra, PostgreSQL, Cloudinary API, RSpec, Capybara, Rake |
 
 #### Teamwork
 I have over eight years of professional and volunteer work experience building, leading and working on teams across various industries. Whether pair-programming or collaborating as part of a larger group, I recognize the essential benefits of teamwork and continuously strive to learn from, support and openly share ideas and opinions with my teammates.
