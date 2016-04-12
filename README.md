@@ -10,7 +10,7 @@ Wandering problem-solver, critical-thinker and perpetual student. I've spent the
 * An enthusiastic autodidact, I can pick up unfamiliar languages and frameworks quickly and confidently.
   * Beyond the Makers Academy curriculum and with no prior mobile development experience, I learned Swift and the Xcode IDE sufficiently well to prototype a native iOS application in three days.
 
-##### Samples
+##### Examples
 | Project | Team Size | Description | Technologies |
 |---------|:---------:|-------------|--------------|
 |[Moments](https://github.com/BjoernWagner/moments) | 5 | Makers Academy final project. A social mobile app that allows people to share and view experiences on a map, updated in real-time. | Swift, Xcode, Firebase, AWS S3, Facebook SDK (iOS), XCTest, Quick |
@@ -20,6 +20,7 @@ Wandering problem-solver, critical-thinker and perpetual student. I've spent the
 #### Teamwork
 I have over eight years of professional and volunteer work experience building, leading and working on teams across various industries. Whether pair-programming or collaborating as part of a larger group, I recognize the essential benefits of teamwork and continuously strive to learn from, support and openly share ideas and opinions with my teammates.
 
+##### Examples
 - As a member of several project teams at Makers Academy, I worked with other students to define tasks, establish Git workflows and merge completed tickets into singular MVP codebases.
 - I recruited and managed a volunteer team responsible for contributing data analysis and visualization to UN OCHA's $408M revised regional appeal for Libya (2011).
 - Together with other senior technicians and management at New York University, I prioritized and delegated support tickets to junior staff, minimizing ticket response times and critical service downtime.
