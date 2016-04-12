@@ -13,7 +13,7 @@ Wandering problem-solver, critical-thinker and perpetual student. I've spent the
 ##### Samples
 | Project | Team Size | Description | Technologies |
 |---------|:---------:|-------------|--------------|
-|[Moments](https://github.com/BjoernWagner/moments) | 5 | Makers Academy final project. A social mobile app that allows people to share and view experiences on a map, updated in real-time. | Swift, Xcode, Facebook SDK (iOS), Firebase, AWS S3, XCTest, Quick |
+|[Moments](https://github.com/BjoernWagner/moments) | 5 | Makers Academy final project. A social mobile app that allows people to share and view experiences on a map, updated in real-time. | Swift, Xcode, Firebase, AWS S3, Facebook SDK (iOS), XCTest, Quick |
 |[GithubCreep](https://github.com/BjoernWagner/github-creep) | 4 | A single-page application for searching GitHub user profiles via JSON requests. | AngularJS, Github API, Protractor, Karma |
 |[MakersBnB](https://github.com/RPiper93/makers_bnb) [(Heroku)](http://makers-bnb.herokuapp.com) | 5 | An AirBnB clone that allows users to list, update and book properties, as well as intelligently confirm, deny and prevent bookings based on a property's availability. | JavaScript, jQuery, Ruby, Sinatra, PostgreSQL, Cloudinary API, RSpec, Capybara, Rake |
 
