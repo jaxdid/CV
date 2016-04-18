@@ -33,8 +33,8 @@ I have over eight years of professional and volunteer work experience building, 
 #### Adaptability
 Having lived in eight countries across five continents and having helped run a distributed global network of 1,200+ online volunteers respond to humanitarian crises, I thrive in the face of new and changing situations. I have extensive experience working across cultures, languages and timezones, both in-person and remotely. I welcome any opportunity to work with new people in new ways and reliably maintain composure and productivity under the pressures of changing deadlines and specifications.
 
-#### Training
-Sharing my knowledge with others isn't just gratifying, it's the best way to reinforce what I know—and what I don't!
+#### Knowledge-sharing
+Sharing my knowledge with others isn't just incredibly gratifying, it's the best way to reinforce what I know—and what I don't!
 
 ##### Examples
 - [Scalable Vector Graphics for UI/UX: A Primer](https://github.com/jaxdid/intro_to_SVG), produced to help other Makers Academy students learn about SVGs.
