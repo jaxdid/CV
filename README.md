@@ -11,7 +11,7 @@ Wandering problem-solver, critical-thinker and perpetual student. Omnivorous and
 * I have experience with SOLID OOP in both Ruby and JavaScript ([5 kyu](http://www.codewars.com/users/jaxDid)) across a range of application interfaces, from minimalist CLIs to dynamic frontends and RESTful APIs.
 * An enthusiastic autodidact, I can pick up unfamiliar languages and frameworks quickly and confidently.
   * With no prior mobile development experience, I learned Swift and the Xcode IDE sufficiently well to prototype a native iOS application in three days.
-  * I learned Java and the IntelliJ IDEA, together with JUnit, Mockito and Powermock test frameworks to pass a tech test in four days.
+  * I learned Java and the IntelliJ IDEA, together with JUnit, Mockito and Powermock testing frameworks, to pass a tech test in four days.
 
 ##### Examples
 | Project | Team Size | Description | Technologies |
@@ -25,7 +25,7 @@ Wandering problem-solver, critical-thinker and perpetual student. Omnivorous and
 I have over eight years of professional and volunteer work experience building, leading and working on teams across various industries. Whether pair-programming or collaborating as part of a larger group, I recognize the essential benefits of teamwork and continuously strive to learn from, support and openly share ideas and opinions with my teammates.
 
 ##### Examples
-- As a member of several project teams at Makers Academy, I worked with other students to define tasks, establish Git workflows and merge completed tickets into singular MVP codebases.
+- As a member of several project teams at Makers Academy, I worked with other students to define tasks, establish Git workflows (code reviews!) and merge completed tickets into unified MVP codebases.
 - In response to the Libyan Civil War (2011), I coordinated the [crisis mapping efforts](http://www.fastcompany.com/1736822/heres-map-humanitarian-crisis-hotspots-libya-dont-tell-gaddafi) of 500+ online UN volunteers and managed a volunteer team responsible for contributing data analysis and visualization to UN OCHA's $408M revised regional appeal.
 - Together with other senior technicians and management at New York University, I prioritized and delegated support tickets to junior staff, minimizing ticket response times and critical service downtime for 60,000+ students, faculty and staff.
 - As a Core Team member at the Standby Task Force, I worked with partner organizations and interagency committees to assess situational needs of formal humanitarian actors and develop information services that increased the efficiency and efficacy of humanitarian response.
