@@ -7,11 +7,11 @@ Wandering problem-solver, critical-thinker and perpetual student. Omnivorous and
 ## Skills
 
 #### Mobile and Web Development
-* Through an intensive, sixteen-week bootcamp at [Makers Academy](http://www.makersacademy.com), I've built a strong foundation in agile software development, with a focus on testing, object-oriented programming and code cleanliness.
-* I have experience with SOLID OOP in both Ruby and JavaScript ([5 kyu](http://www.codewars.com/users/jaxDid)) across a range of application interfaces, from minimalist CLIs to dynamic frontends and RESTful APIs.
+* Through an intensive, twelve-week bootcamp at [Makers Academy](http://www.makersacademy.com), I've built a strong foundation in agile software development, with a focus on testing, object-oriented programming and code cleanliness.
+* I have experience with SOLID OOP in both Ruby and JavaScript across a range of application interfaces, from minimalist CLIs to dynamic frontends and RESTful APIs.
 * An enthusiastic autodidact, I can pick up unfamiliar languages and frameworks quickly and confidently.
-  * With no prior mobile development experience, I learned Swift and the Xcode IDE sufficiently well to prototype a native iOS application in three days.
-  * I learned Java and the IntelliJ IDEA, together with JUnit, Mockito and Powermock testing frameworks, to pass a tech test in four days.
+  * With no prior mobile development experience, I learned Swift and the Xcode IDE well enough to prototype a native iOS application in three days.
+  * I learned Java and IntelliJ IDEA, along with the JUnit, Mockito and Powermock testing frameworks, to deliver a test-driven tech test submission in four days.
 
 ##### Examples
 | Project | Team Size | Description | Technologies |
@@ -22,7 +22,7 @@ Wandering problem-solver, critical-thinker and perpetual student. Omnivorous and
 |[MakersBnB](https://github.com/RPiper93/makers_bnb) [(Heroku)](http://makers-bnb.herokuapp.com) | 5 | An AirBnB clone that allows users to list, update and book properties, as well as intelligently confirm, deny and prevent bookings based on a property's availability. | JavaScript, jQuery, Ruby, Sinatra, PostgreSQL, Cloudinary API, RSpec, Capybara, Rake |
 
 #### Teamwork
-I have over eight years of professional and volunteer work experience building, leading and working on teams across various industries. Whether pair-programming or collaborating as part of a larger group, I recognize the essential benefits of teamwork and continuously strive to learn from, support and openly share ideas and opinions with my teammates.
+I have over eight years of professional and volunteer work experience building, leading and working on teams across various industries. Whether pair-programming or collaborating as part of a larger group, I recognize the essential benefits of good teamwork and continuously strive to learn from, support and openly share ideas and opinions with my teammates.
 
 ##### Examples
 - As a member of several project teams at Makers Academy, I worked with other students to define tasks, establish Git workflows (code reviews!) and merge completed tickets into unified MVP codebases.
@@ -42,10 +42,11 @@ Sharing my knowledge with others isn't just incredibly gratifying, it's the best
 
 ## Education
 
-#### Makers Academy (December 2015 – April 2016)
-- OOP, TDD, SOLID, MVC/MV*, DDD
+#### Makers Academy (January 2016 – April 2016)
+- Cultivated a passion for and curiosity about code
+- OOP, SOLID, TDD, BDD, MVC/MV*
 - Software Craftsmanship, Extreme Programming (XP)
-- Ruby, Rails, JavaScript, jQuery, Node.js, AngularJS, PostgreSQL
+- Ruby, Rails, JavaScript, jQuery, Node.js, AngularJS, PostgreSQL, AWS, Heroku
 - RSpec, Capybara, Jasmine
 
 #### University College London (September 2014 – September 2015)
