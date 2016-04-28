@@ -65,7 +65,7 @@ Sharing my knowledge with others isn't just incredibly gratifying, it's the best
 *Core Team Member (Volunteer Operations)*
 
 **United Nations Office for the Coordination of Humanitarian Affairs** (March – June 2011)   
-*Lead Project Coordinator*
+*Data Coordinator*
 
 **New York University** (September 2007 – December 2010)   
 *Senior Desktop Support Technician*
